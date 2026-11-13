@@ -1,0 +1,10 @@
+{
+  "project": "PROJ",
+  "capHours": 240,
+  "subtaskTypeName": "",
+  "defaultTypeName": "Task",
+  "defaultPriority": "Medium",
+  "gitlabHost": "",
+  "worklogMarker": "jira-worklog",
+  "reportDir": "reports"
+}
